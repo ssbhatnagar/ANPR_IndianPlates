@@ -19,4 +19,4 @@ Prerequisite libraries for this custom model detection task are. -
 9. clone of the https://github.com/tensorflow/models repository.
 10. protoc 3.4
 
-
+Conclusion - mAP-64.9%
